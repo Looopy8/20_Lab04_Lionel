@@ -12,3 +12,5 @@ The acceptance testing plan is created during the design phase and the actual te
 end users
 
 blackbox
+
+updated by WEIBIN
